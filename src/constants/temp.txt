@@ -1,0 +1,2 @@
+This is useless temporary file for creating new folder directory at upstream repository.
+Delete this file later!
